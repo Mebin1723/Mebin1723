@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electrical and Electronics Engineering, Free Space Optics (FSO), Circuit Design, Embedded Systems, Robotics, Industrial Automation, FPGA, AI, Modern Electric System, HVAC, Machine Vision.
 - 🌱 I’m currently learning Advanced techniques in Electrical and Electronics Engineering, with a focus on Free Space Optical Communication Systems and Signal Processing.
 - 💞️ I’m looking to collaborate on Projects related to circuit design, embedded systems, industrial automation, and innovative applications in electrical engineering.
-- 📫 How to reach me https://www.linkedin.com/in/mebin-mathew-eeeng/
+- 📫 How to reach me https://www.linkedin.com/in/mebin-mathew-mmebin/
 - ⚡ Fun fact:  have a keen interest in integrating technology with sustainable energy solutions and have worked on several DIY electronics projects.
 
 <!---
